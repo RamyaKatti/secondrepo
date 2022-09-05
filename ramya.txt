@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-hello
-=======
-qwertyuewogksdl;
->>>>>>> 8284ef14a954d7d697a1242a1f84395e94bbcc9b
-
-
-
-hellloooo
